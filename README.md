@@ -1,6 +1,8 @@
 # behavioural-cloning
 🤖 AI cloning the behavior of a driving simulator 🚗
 
+![test](img/behavioural-cloning.gif)
+
 ## Balance data
 
 Our data is skewed toward the middle:
@@ -33,7 +35,7 @@ Resize:
 
 ![preprocess4](img/preprocess4.png)
 
-## NVIDIA Model
+## Train NVIDIA Model
 ```
 Model: "sequential_4"
 _________________________________________________________________
@@ -63,3 +65,21 @@ Total params: 252,219
 Trainable params: 252,219
 Non-trainable params: 0
 ```
+
+## Test model
+
+
+Need to downgrade engineio & socketio:
+
+`pip install python-socketio==4.6.1`
+
+`pip install python-engineio==3.13.2`
+
+https://stackoverflow.com/questions/65636824/server-code-actively-refuses-to-connect-with-udacitys-self-driving-car-simulato
+
+
+## Resources
+
+* https://jefflirion.github.io/udacity_car_nanodegree_project03/index.html
+* https://naokishibuya.medium.com/introduction-to-udacity-self-driving-car-simulator-4d78198d301d
+* https://github.com/udacity/CarND-Behavioral-Cloning-P3

@@ -131,3 +131,4 @@ dmypy.json
 
 # Project specific
 sim_data/
+beta_simulator_windows/
