@@ -83,4 +83,3 @@ https://stackoverflow.com/questions/65636824/server-code-actively-refuses-to-con
 * https://jefflirion.github.io/udacity_car_nanodegree_project03/index.html
 * https://naokishibuya.medium.com/introduction-to-udacity-self-driving-car-simulator-4d78198d301d
 * https://github.com/udacity/CarND-Behavioral-Cloning-P3
-* https://automatetheboringstuff.com/2e/chapter13/
