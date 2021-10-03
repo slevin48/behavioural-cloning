@@ -68,6 +68,18 @@ Non-trainable params: 0
 
 ## Test model
 
+### Batch testing
+
+Predicted angle:
+
+![predicted](img/predicted.png)
+
+Actual angle:
+
+![steering](img/steering.png)
+
+
+### Simulator in Autonomous mode
 
 Need to downgrade engineio & socketio:
 
