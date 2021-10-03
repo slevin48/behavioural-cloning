@@ -130,6 +130,6 @@ dmypy.json
 
 
 # Project specific
-sim_data/
+sim_data*
 beta_simulator_windows/
 .MATLABDriveTag

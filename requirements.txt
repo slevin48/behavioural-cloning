@@ -1,0 +1,11 @@
+numpy
+matplotlib
+scikit-learn
+pandas
+opencv-python
+tensorflow
+boto3
+python-socketio==4.6.1
+python-engineio==3.13.2
+eventlet
+flask
